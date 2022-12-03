@@ -1,18 +1,18 @@
-# SalesInvoiceGenerator
-=it is a java desktop application ;
-you can run this project by running myGui.java;
+# Sales Invoice Generator
+It is a java desktop application 
+you can run this project by running myGui.java
 
- =data you need  to upload found in data section
+### Data you need  to upload found in data section
  there is two files .csv
- 1-InvoiceHeader
- 2-InvoiceLine
+- InvoiceHeader
+- InvoiceLine
 
-=Features:
--Load file
--Save file
--Create new invoice
--Delete invoice
--Create new item
--Delete items
+### Features:
+- Load file
+- Save file
+- Create new invoice
+- Delete invoice
+- Create new item
+- Delete items
 - exceptions
--error messages
+- error messages
